@@ -1,3 +1,4 @@
+package Student;
 public class Student {
     private String name;
     private int test1, test2, test3;
